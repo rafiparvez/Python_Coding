@@ -1,5 +1,5 @@
 '''
-Iterative Approach:
+Recursive Approach:
 Time Complexity:
 '''
 
