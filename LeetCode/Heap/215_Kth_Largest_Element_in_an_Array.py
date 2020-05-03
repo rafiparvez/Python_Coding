@@ -23,5 +23,7 @@ class Solution:
         return minheap.get()
 
 
+print(Solution().findKthLargest([3,1,4,5], 2))
+
 # Approach 2: Using quick select
 

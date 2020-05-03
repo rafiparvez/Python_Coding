@@ -31,5 +31,4 @@ class Solution(object):
         for i in range(1, len(nums)):
             max_curr_subarray_sum = max(max_curr_subarray_sum + nums[i], nums[i])
             max_global_subarray_sum = max(max_global_subarray_sum, max_curr_subarray_sum)
-
         return max_global_subarray_sum
