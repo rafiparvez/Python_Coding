@@ -28,3 +28,4 @@ class Solution:
         recurse(nums, 0)
 
         return result
+
